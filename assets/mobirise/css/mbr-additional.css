@@ -13,6 +13,30 @@
   font-family: 'Indie Flower', cursive;
 }
 
+
+#menu-r .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-r.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-r .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-r .mbr-brand__name a {
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box3-t .mbr-header .mbr-header__text {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box3-t .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-t .mbr-article P {
+  text-align: center;
+}
+
 #menu-i .mbr-brand__name {
   font-size: 16px;
 }
@@ -52,42 +76,5 @@
   color: #ffffff;
 }
 #menu-o .mbr-brand__name a {
-  font-family: 'Indie Flower', cursive;
-}
-
-
-#menu-r .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-r.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-r .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-r .mbr-brand__name a {
-  font-family: 'Indie Flower', cursive;
-}
-#msg-box3-t .mbr-header .mbr-header__text {
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
-}
-#msg-box3-t .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-t .mbr-article P {
-  text-align: center;
-}
-
-#menu-u .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-u.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-u .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-u .mbr-brand__name a {
   font-family: 'Indie Flower', cursive;
 }
