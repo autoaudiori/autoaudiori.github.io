@@ -3,7 +3,7 @@
     "name": "Auto Audio & Accessories",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 41,
+    "uniqCompNum": 43,
     "versionPublish": "4.6.2",
     "theme": {
       "additionalSetColors": [
@@ -19,8 +19,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "This is a new page\n",
+        "title": "Auto Audio & Accessories",
+        "meta_descr": "Main \n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
