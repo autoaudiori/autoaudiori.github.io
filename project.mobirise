@@ -3,13 +3,17 @@
     "name": "Auto Audio & Accessories",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 40,
-    "versionPublish": "4.5.2",
+    "uniqCompNum": 41,
+    "versionPublish": "4.6.2",
     "theme": {
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#f5eaff"
+      ]
     },
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -26,32 +30,16 @@
           "_name": "menu1"
         },
         {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "_anchor": "footer1-f"
-        },
-        {
           "_styles": {
             ".mbr-brand__name": {
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#f5eaff"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#f5eaff"
             },
             ".mbr-brand__name a": {
               "font-family": "'Indie Flower', cursive",
@@ -66,8 +54,8 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "color": "#f5eaff",
+            "hamburgerColor": "#f5eaff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -110,10 +98,10 @@
             "paddingBottom": 3,
             "columns": 5,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-810x1080.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f5eaff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -253,6 +241,12 @@
           "_styles": {
             "P": {
               "text-align": "center"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#27aae0",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "22px"
             }
           }
         }
@@ -290,8 +284,8 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "color": "#f5eaff",
+            "hamburgerColor": "#f5eaff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -401,8 +395,8 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "color": "#f5eaff",
+            "hamburgerColor": "#f5eaff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -605,10 +599,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": "2",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#444444",
@@ -641,8 +635,8 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "color": "#f5eaff",
+            "hamburgerColor": "#f5eaff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -701,10 +695,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": "2",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#444444",
@@ -737,8 +731,8 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "color": "#f5eaff",
+            "hamburgerColor": "#f5eaff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",

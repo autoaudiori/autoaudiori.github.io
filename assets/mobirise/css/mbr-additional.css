@@ -1,13 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
+
 #menu-g .mbr-brand__name {
   font-size: 16px;
 }
 #menu-g.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #f5eaff;
 }
 #menu-g .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #f5eaff;
 }
 #menu-g .mbr-brand__name a {
   font-family: 'Indie Flower', cursive;
@@ -15,6 +16,11 @@
 }
 #content4-11 P {
   text-align: center;
+}
+#content4-11 .mbr-section__col .mbr-header__text {
+  color: #27aae0;
+  font-family: 'Indie Flower', cursive;
+  font-size: 22px;
 }
 
 
