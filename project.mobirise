@@ -10,7 +10,7 @@
         "#f5eaff"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/penguins-128x96.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
