@@ -35,11 +35,11 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#f5eaff"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#f5eaff"
+              "color": "#ffffff"
             },
             ".mbr-brand__name a": {
               "font-family": "'Indie Flower', cursive",
@@ -54,8 +54,8 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#f5eaff",
-            "hamburgerColor": "#f5eaff"
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -98,7 +98,7 @@
             "paddingBottom": "4",
             "columns": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/clipboard01-1920x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#f5eaff",
@@ -174,7 +174,7 @@
             }
           },
           "title3": "Truck Accessories",
-          "caption3": "<br>Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "<br>Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.<br><br><br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -266,11 +266,11 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#f5eaff"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#f5eaff"
             },
             ".mbr-brand__name a": {
               "font-family": "'Indie Flower', cursive",
@@ -285,8 +285,8 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#f5eaff",
-            "hamburgerColor": "#f5eaff"
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -324,10 +324,12 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
             },
             ".mbr-article P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
             }
           },
           "_params": {
@@ -338,23 +340,23 @@
             "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/clipboard01-1920x1200.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
           "title": "Auto Audio &amp; Accessories",
           "meta": "Owned &amp; Operated by Craig Jackson",
-          "text": "<p>Auto Audio &amp; Accessories first opened in Westerly RI in 1993,\n</p><p>8 years later in 2001 a second location was opened in Chepachet RI. \n</p><p>Between both location we have over 60 years of on the job experience.</p>",
+          "text": "<p>Auto Audio &amp; Accessories first opened in Westerly RI in 1993,\n</p><p>8 years later in 2001 a second location was opened in Chepachet RI. \n</p><p>Between both location we have over 60 years of on the job experience.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -377,7 +379,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -396,8 +398,8 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#f5eaff",
-            "hamburgerColor": "#f5eaff"
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -439,10 +441,10 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "columns": 5,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/clipboard01-1920x1200.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -496,7 +498,7 @@
             }
           },
           "title2": "Auto Audio &amp; Accessories<br><br>167 Granite St<br>Westerly, RI 02891<br><br>(401) 348-3071",
-          "caption2": "Contact: Craig Jackson<br><br><a href=\"Westerly.html\">Map</a>",
+          "caption2": "Contact: Craig Jackson<br><br><a href=\"Westerly.html\" class=\"text-black\">Map</a><br><br><br><br><br><br><br><br><a href=\"Westerly.html\"><br></a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -536,7 +538,7 @@
             }
           },
           "title4": "Auto Audio &amp; Accessories<br><br>1188 Putnam Pike<br>Chepachet, RI 02814<br><br>(401) 567-9200",
-          "caption4": "Contact: Dave Lowe<br><br><a href=\"Chepachet.html\">Map</a>",
+          "caption4": "Contact: Dave Lowe<br><br><a href=\"Chepachet.html\" class=\"text-black\">Map</a><br><br><br><br><br><br><br><br><a href=\"Chepachet.html\"><br></a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -582,7 +584,8 @@
           "_anchor": "content4-13",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
             }
           }
         }
@@ -617,9 +620,11 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#ffffff"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -636,8 +641,8 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#f5eaff",
-            "hamburgerColor": "#f5eaff"
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -732,8 +737,8 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#f5eaff",
-            "hamburgerColor": "#f5eaff"
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",

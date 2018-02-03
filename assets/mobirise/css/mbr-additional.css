@@ -5,10 +5,10 @@
   font-size: 16px;
 }
 #menu-g.mbr-navbar--stuck .mbr-navbar__section {
-  background: #f5eaff;
+  background: #ffffff;
 }
 #menu-g .mbr-navbar__hamburger {
-  color: #f5eaff;
+  color: #ffffff;
 }
 #menu-g .mbr-brand__name a {
   font-family: 'Indie Flower', cursive;
@@ -29,10 +29,10 @@
   font-size: 16px;
 }
 #menu-r.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #f5eaff;
 }
 #menu-r .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #f5eaff;
 }
 #menu-r .mbr-brand__name a {
   font-family: 'Indie Flower', cursive;
@@ -44,16 +44,18 @@
 }
 #msg-box3-t .mbr-header .mbr-header__subtext {
   text-align: center;
+  color: #000000;
 }
 #msg-box3-t .mbr-article P {
   text-align: center;
+  color: #000000;
 }
 
 #menu-i .mbr-brand__name {
   font-size: 16px;
 }
 #menu-i.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #ffffff;
 }
 #menu-i .mbr-navbar__hamburger {
   color: #ffffff;
@@ -64,13 +66,17 @@
 }
 #content4-13 P {
   text-align: center;
+  color: #000000;
 }
 
 #menu-l .mbr-brand__name {
   font-size: 16px;
 }
 #menu-l.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #ffffff;
+}
+#menu-l .mbr-navbar__section {
+  background: #ffffff;
 }
 #menu-l .mbr-navbar__hamburger {
   color: #ffffff;
