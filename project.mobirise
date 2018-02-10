@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Auto Audio & Accessories",
-    "currentPage": "index.html",
+    "currentPage": "Chepachet.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 43,
     "versionPublish": "4.6.2",
@@ -44,6 +44,9 @@
             ".mbr-brand__name a": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "22px"
+            },
+            ".mbr-navbar__items a": {
               "font-size": "20px"
             }
           },
@@ -61,12 +64,13 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-96x256.jpg",
+              "src": "@PROJECT_PATH@/assets/images/clipboard01-204x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -108,7 +112,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.3"
           },
           "_tags": [
             "Theme"
@@ -266,15 +270,18 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#f5eaff"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#f5eaff"
+              "color": "#ffffff"
             },
             ".mbr-brand__name a": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "22px"
+            },
+            ".mbr-navbar__items a": {
               "font-size": "20px"
             }
           },
@@ -292,12 +299,13 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-96x256.jpg",
+              "src": "@PROJECT_PATH@/assets/images/clipboard01-204x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -338,8 +346,8 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/clipboard01-1920x1200.jpg",
             "parallax": true,
@@ -352,7 +360,7 @@
             "darkBackground": false,
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
           "title": "Auto Audio &amp; Accessories",
           "meta": "Owned &amp; Operated by Craig Jackson",
@@ -388,6 +396,9 @@
             ".mbr-brand__name a": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "22px"
+            },
+            ".mbr-navbar__items a": {
               "font-size": "20px"
             }
           },
@@ -405,12 +416,13 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-96x256.jpg",
+              "src": "@PROJECT_PATH@/assets/images/clipboard01-204x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -418,8 +430,7 @@
               "name": "mobirise",
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Auto Audio &amp; Accessories</a>",
@@ -450,9 +461,9 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.3"
           },
           "_tags": [
             "Theme"
@@ -622,15 +633,16 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#ffffff"
             },
-            ".mbr-navbar__section": {
-              "background": "#ffffff"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
             ".mbr-brand__name a": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "22px"
+            },
+            ".mbr-navbar__items a": {
               "font-size": "20px"
             }
           },
@@ -648,12 +660,13 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-96x256.jpg",
+              "src": "@PROJECT_PATH@/assets/images/clipboard01-204x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -718,7 +731,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -727,6 +740,9 @@
             ".mbr-brand__name a": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "22px"
+            },
+            ".mbr-navbar__items a": {
               "font-size": "20px"
             }
           },
@@ -744,12 +760,13 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-96x256.jpg",
+              "src": "@PROJECT_PATH@/assets/images/clipboard01-204x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
