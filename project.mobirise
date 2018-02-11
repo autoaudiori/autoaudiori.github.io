@@ -100,7 +100,7 @@
             "showButtons": false,
             "paddingTop": "4",
             "paddingBottom": "4",
-            "columns": "5",
+            "columns": "6",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/clipboard01-1920x1200.jpg",
             "parallax": true,
@@ -178,7 +178,7 @@
             }
           },
           "title3": "Car &amp;Truck Accessories",
-          "caption3": "We offer a wide selection of Accessories, from Vent Visors &amp; Hood Guards, Side Steps, <br>Back Racks &amp; Tool Boxes<br>Push Bars, Wheels &amp; Tires, Tonno Covers<br><br><br>",
+          "caption3": "We offer a wide selection of Accessories, from Vent Visors &amp; Hood Guards, Side Steps, <br>Back Racks &amp; Tool Boxes<br>Push Bars, Wheels &amp; Tires, Tonno Covers.<br><br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -198,7 +198,7 @@
             }
           },
           "title4": "Safety",
-          "caption4": "<br>We offer Back-up Sensors &amp; Camera Systems, Blind Spot Detection, Lighting, Strobes &amp; Safety Lighting &nbsp;",
+          "caption4": "<br>We offer Back-up Sensors &amp; Camera Systems, Blind Spot Detection, Lighting, Strobes &amp; Safety Lighting. &nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -218,7 +218,7 @@
             }
           },
           "title5": "Accessories &amp;<br>Installation",
-          "caption5": "Choose from the large selection of Installation Accessories.<br><br>Installation is always advailable&nbsp;",
+          "caption5": "Choose from the large selection of Installation Accessories.<br><br>Installation is always advailable.&nbsp;",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -237,8 +237,8 @@
               "size": 0
             }
           },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "title6": "Alcohol Ignition Interlocks",
+          "caption6": "We provide installation &amp; service for<br><b><i>Lifesafer</i></b>,&nbsp;<br>Smartstart,<br>Intoxalock,<br>Sensolock,<br>&amp; Lowcost.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_anchor": "content4-11",
